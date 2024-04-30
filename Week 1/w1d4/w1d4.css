@@ -1,0 +1,43 @@
+.container {
+    position: relative;
+    display: grid;
+    place-content: center;
+}
+
+.container b {
+    color: #5AF4F4;
+}
+
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+}
+
+main {
+    max-width: 580px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profil {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.profil img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.profil p {
+    font-size: 30px;
+}
+
+.profil span {
+    font-size: 15px;
+    color: #d4d4d4;
+}
+
+.intro {}

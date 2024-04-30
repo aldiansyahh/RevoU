@@ -1,0 +1,75 @@
+/* .collection {
+    display: flex;
+    gap: 10px 10px;
+    flex-wrap: wrap;
+}
+
+.kotak {
+    width: 160px;
+    height: 160px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.merah {
+    background-color: rgb(249, 135, 135);
+}
+
+.biru {
+    background-color: rgb(162, 162, 248);
+}
+
+.hijau {
+    background-color: rgb(144, 235, 144);
+} */
+
+.collection {
+    display: flex;
+    gap: 30px 30px;
+}
+
+.kolom {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.kotak {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.merah {
+    background-color: rgb(249, 135, 135);
+}
+
+.biru {
+    background-color: rgb(162, 162, 248);
+}
+
+.hijau {
+    background-color: rgb(144, 235, 144);
+}
+
+.satu {
+    height: 200px;
+}
+
+.dua {
+    height: 400px;
+}
+
+.tiga {
+    height: 300px;
+}
+
+.empat {
+    height: 100px;
+}
+
+.lima {
+    height: 400px;
+}
